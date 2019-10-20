@@ -89,3 +89,17 @@ Restart the ftp server with the new configuration.
 ```sh 
 $ sudo service vsftpd restart
 ```
+
+
+## Firewall status
+
+## Creating scripts
+### backup script
+### add user to ftp
+### restart ftp server
+### remove user from ftp
+
+
+## Future
+### port forwarding
+### ssh access
